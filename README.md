@@ -20,6 +20,9 @@
   - [PythonプログラミングとLLM](https://www.chowagiken.co.jp/blog/llm-python-programming)  
   - [LangChainを活用した開発](https://www.chowagiken.co.jp/blog/python_langchain)
 
+
+
+
 ---
 
 ## ✍️ **技術ブログ執筆**
@@ -27,7 +30,7 @@
 
 ---
 ## 画像処理
-* 
+* [プリントシール機の`うつり`を作る画像技術](https://www.jstage.jst.go.jp/article/itej/69/11/69_859/_pdf)
 
 ---
 

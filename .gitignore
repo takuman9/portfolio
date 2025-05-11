@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+env/
+*.env
+
+# Python bytecode and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Data and Index files (IMPORTANT for this project)
+text_data/
+faiss_index_text_data/
+# もしFAISS_INDEX_PATHを別の名前にした場合、その名前も追加
+
+# API key files (if any, though os.getenv is used)
+*.pem
+credentials.json

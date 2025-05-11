@@ -102,6 +102,8 @@ LLMを用いた簡単なRAGシステムを作成しました。以下の手順�
 
 - [プリントシール機の「うつり」を作る画像処理技術（学会論文）](https://www.jstage.jst.go.jp/article/itej/69/11/69_859/_pdf)
 
+- [不良品の学習データが必要ない「良品学習」の異常検知エンジンのご紹介](https://www.dts-insight.co.jp/seminar/webinar_20240118_chowagiken.html)
+
 ---
 
 ## 📫 お問い合わせ

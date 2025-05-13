@@ -31,6 +31,7 @@ LLMを用いた簡単なRAGシステムを作成しました。以下の手順�
    ```bash
    conda create -n portfolio-rag python=3.8
    conda activate portfolio-rag
+   pip install -r requirements.txt
    ```
 
 3. **データの準備**  
